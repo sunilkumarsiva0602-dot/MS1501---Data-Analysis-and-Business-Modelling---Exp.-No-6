@@ -151,8 +151,6 @@ Strong Association Rules (confidence >= 0.6 and lift > 1):
 3         frozenset({Bread})  frozenset({Butter})      0.5    0.625000  1.041667
 4         frozenset({Bread})    frozenset({Eggs})      0.5    0.625000  1.041667
 ```
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/d13db139-f517-4542-8265-3a2b31036f99" />
-<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/88760d52-25be-4707-add0-413ba2b4d505" />
 
 ## Result
 Thus, Market Basket Analysis using the Apriori algorithm was executed successfully.
